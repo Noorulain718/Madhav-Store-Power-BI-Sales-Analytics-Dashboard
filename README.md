@@ -1,1 +1,1 @@
-# Madhav-Store-Power-BI-Sales-Analytics-Dashboard-Dashboard-using-Power-BI
+# Madhav-Store-Power-BI-Sales-Analytics-Dashboard
